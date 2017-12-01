@@ -1,5 +1,3 @@
-from itertools import cycle
-
 my_input = 12131415
 my_input_list = [int(d) for d in str(my_input)]
 my_adding_list = []
