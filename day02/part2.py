@@ -1,6 +1,6 @@
 import csv
 
-my_input = list(csv.reader(open('day02.input.txt', 'rt'), delimiter='\t'))
+my_input = list(csv.reader(open('day02\input.txt', 'rt'), delimiter='\t'))
 my_checksum_list = []
 
 for i in range(0, len(my_input)):

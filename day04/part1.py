@@ -1,4 +1,4 @@
-my_input = open('day04.input.txt', 'rt')
+my_input = open('day04\input.txt', 'rt')
 any_count = 0
 valid_count = 0
 for l in my_input:
